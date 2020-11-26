@@ -1,0 +1,40 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[34,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+
+license="All rights reserved"
+
+issueTrackerURL="https://www.curseforge.com/minecraft/mc-mods/killerz-obsidian-expansion/issues" #optional
+
+[[mods]] #mandatory
+
+modId="obsidianexpansion" #mandatory
+
+version="1.0.0" #mandatory
+
+displayName="Killerz Obsidian Expansion" #mandatory
+
+displayURL="https://www.curseforge.com/minecraft/mc-mods/killerz-obsidian-expansion" #optional
+
+logoFile="obsidianexpansion_logo.png" #optional
+
+authors="allkillernofiller (Killer_Playz)" #optional
+
+description='''
+Adds different types of Obsidian and Crying Obsidian blocks
+'''
+
+[[dependencies.obsidianexpansion]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[34,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.obsidianexpansion]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.3,1.17)"
+    ordering="NONE"
+    side="BOTH"
+

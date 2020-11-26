@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "S"
+  ],
+  "key": {
+    "S": {
+      "item": "obsidianexpansion:obsidian_shard"
+    }
+  },
+  "result": {
+    "item": "obsidianexpansion:obsidian_stick",
+    "count": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "obsidianexpansion:block/obsidian_crafting_table_front",
+    "north": "obsidianexpansion:block/obsidian_crafting_table_front",
+    "south": "obsidianexpansion:block/obsidian_crafting_table_side",
+    "east": "obsidianexpansion:block/obsidian_crafting_table_side",
+    "west": "obsidianexpansion:block/obsidian_crafting_table_front",
+    "up": "obsidianexpansion:block/obsidian_crafting_table_top",
+    "down": "obsidianexpansion:block/obsidian"
+  }
+}

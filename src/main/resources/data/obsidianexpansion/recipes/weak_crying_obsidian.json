@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OC"
+  ],
+  "key": {
+    "O": {
+      "item": "obsidianexpansion:crying_obsidian_shard"
+    },
+    "C": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "obsidianexpansion:weak_crying_obsidian"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "obsidianexpansion:block/obsidian",
+    "top": "obsidianexpansion:block/obsidian",
+    "side": "obsidianexpansion:block/obsidian"
+  }
+}

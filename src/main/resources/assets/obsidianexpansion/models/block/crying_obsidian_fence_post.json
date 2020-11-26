@@ -1,0 +1,6 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "obsidianexpansion:block/crying_obsidian"
+  }
+}

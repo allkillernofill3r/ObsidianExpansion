@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OSO",
+    "OSO"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "S": {
+      "item": "obsidianexpansion:crying_obsidian_stick"
+    }
+  },
+  "result": {
+    "item": "obsidianexpansion:crying_obsidian_fence",
+    "count": 3
+  }
+}

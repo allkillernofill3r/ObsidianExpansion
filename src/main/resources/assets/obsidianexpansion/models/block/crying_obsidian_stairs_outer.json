@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "obsidianexpansion:block/crying_obsidian",
+    "top": "obsidianexpansion:block/crying_obsidian",
+    "side": "obsidianexpansion:block/crying_obsidian"
+  }
+}

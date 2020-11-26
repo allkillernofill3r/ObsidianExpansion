@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OSO",
+    "OSO"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "S": {
+      "item": "obsidianexpansion:obsidian_stick"
+    }
+  },
+  "result": {
+    "item": "obsidianexpansion:obsidian_fence",
+    "count": 3
+  }
+}

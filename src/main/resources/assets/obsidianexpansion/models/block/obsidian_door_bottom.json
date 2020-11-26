@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "obsidianexpansion:block/obsidian_door_bottom",
+    "top": "obsidianexpansion:block/obsidian_door_top"
+  }
+}

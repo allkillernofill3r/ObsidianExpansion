@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SGS",
+    " S "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "S": {
+      "item": "obsidianexpansion:crying_obsidian_shard"
+    }
+  },
+  "result": {
+    "item": "obsidianexpansion:crying_obsidian_glass"
+  }
+}

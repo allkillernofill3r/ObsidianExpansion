@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SOS",
+    "SOS"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "S": {
+      "item": "obsidianexpansion:obsidian_stick"
+    }
+  },
+  "result": {
+    "item": "obsidianexpansion:obsidian_fence_gate"
+  }
+}

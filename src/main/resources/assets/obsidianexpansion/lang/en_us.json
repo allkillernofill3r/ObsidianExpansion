@@ -1,0 +1,23 @@
+{
+  "itemGroup.expansionTab": "Obsidian Expansion",
+  "block.obsidianexpansion.weak_obsidian": "Weak Obsidian",
+  "block.obsidianexpansion.obsidian_slab": "Obsidian Slab",
+  "block.obsidianexpansion.obsidian_stairs": "Obsidian Stairs",
+  "block.obsidianexpansion.obsidian_door": "Obsidian Door",
+  "block.obsidianexpansion.obsidian_fence": "Obsidian Fence",
+  "block.obsidianexpansion.obsidian_fence_gate": "Obsidian Fence Gate",
+  "block.obsidianexpansion.obsidian_crafting_table": "Obsidian Crafting Table",
+  "block.obsidianexpansion.obsidian_glass": "Obsidian Glass",
+  "block.obsidianexpansion.weak_crying_obsidian": "Weak Crying Obsidian",
+  "block.obsidianexpansion.crying_obsidian_slab": "Crying Obsidian Slab",
+  "block.obsidianexpansion.crying_obsidian_stairs": "Crying Obsidian Stairs",
+  "block.obsidianexpansion.crying_obsidian_door": "Crying Obsidian Door",
+  "block.obsidianexpansion.crying_obsidian_fence": "Crying Obsidian Fence",
+  "block.obsidianexpansion.crying_obsidian_fence_gate": "Crying Obsidian Fence Gate",
+  "block.obsidianexpansion.crying_obsidian_crafting_table": "Crying Obsidian Crafting Table",
+  "block.obsidianexpansion.crying_obsidian_glass": "Crying Obsidian Glass",
+  "item.obsidianexpansion.obsidian_shard": "Obsidian Shard",
+  "item.obsidianexpansion.obsidian_stick": "Obsidian Stick",
+  "item.obsidianexpansion.crying_obsidian_shard": "Crying Obsidian Shard",
+  "item.obsidianexpansion.crying_obsidian_stick": "Crying Obsidian Stick"
+}

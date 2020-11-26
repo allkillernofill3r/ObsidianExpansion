@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "obsidianexpansion:block/obsidian",
+    "top": "obsidianexpansion:block/obsidian",
+    "side": "obsidianexpansion:block/obsidian"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OO",
+    "OO",
+    "OO"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "item": "obsidianexpansion:crying_obsidian_door",
+    "count": 3
+  }
+}

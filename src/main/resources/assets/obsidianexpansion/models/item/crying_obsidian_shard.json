@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "obsidianexpansion:item/crying_obsidian_shard"
+  }
+}
