@@ -2,7 +2,6 @@ package com.allkillernofiller.obsidianexpansion;
 
 import com.allkillernofiller.obsidianexpansion.init.BlockInit;
 import com.allkillernofiller.obsidianexpansion.init.ItemInit;
-import net.minecraft.block.Block;
 import net.minecraft.client.renderer.RenderType;
 import net.minecraft.client.renderer.RenderTypeLookup;
 import net.minecraft.item.ItemGroup;
