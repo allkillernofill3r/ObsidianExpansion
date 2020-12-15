@@ -33,10 +33,10 @@ public class ObsidianExpansion {
         RenderTypeLookup.setRenderLayer(BlockInit.CRYING_OBSIDIAN_GLASS.get(), RenderType.getCutout());
     }
 
-    public static final ItemGroup TAB = new ItemGroup("expansionTab") {
+    public static final ItemGroup TAB = (new ItemGroup("expansionTab") {
         @Override
         public ItemStack createIcon() {
             return new ItemStack(BlockInit.WEAK_OBSIDIAN.get());
         }
-    };
+    }).setTabPath("expansion_tab");
 }
